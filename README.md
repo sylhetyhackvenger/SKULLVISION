@@ -1,6 +1,7 @@
 # 🛡️ SkullVision Ultimate - CCTV GRAY HAT HACKING framework
-
 <p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
   <img src="https://img.shields.io/badge/Version-3.0.0_Blackout-red?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/License-Educational%20Only-yellow?style=for-the-badge">
@@ -260,7 +261,9 @@ Complete Module List
 35 Health Check Dependency checking ✅ Active
 
 ---
-
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 💻 Installation
 
 Prerequisites
