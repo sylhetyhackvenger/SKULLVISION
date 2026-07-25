@@ -1,4 +1,4 @@
-# 🛡️ SkullVision Ultimate - CCTV GRAY HAT HACKING ramework
+# 🛡️ SkullVision Ultimate - CCTV GRAY HAT HACKING framework
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0.0_Blackout-red?style=for-the-badge&logo=github">
