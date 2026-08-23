@@ -1,5 +1,5 @@
 # 🛡️ SkullVision Ultimate - CCTV GRAY HAT HACKING framework
-# Not For kids / Offensive CCTV Hacking Map
+# Not For kids that's why 70% is active rest you have to activate / Offensive CCTV Hacking Map
 # Tool is under construction
 <p align="center">
   <img src="assets/1.png" alt="Banner 1" width="100%">
